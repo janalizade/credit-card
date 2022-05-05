@@ -1,0 +1,2214 @@
+[
+	{
+		"transactions": {
+			"booked": [
+				{
+					"bookingDate": "2022-02-08",
+					"transactionAmount": {
+						"amount": "500.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-08",
+					"remittanceInformationUnstructured": "K*ICA SUPERM",
+					"transactionAmount": {
+						"amount": "-230.65",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-08",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "IN & FINN",
+					"transactionAmount": {
+						"amount": "-138.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "KISTA GROSSEN",
+					"transactionAmount": {
+						"amount": "-541.40",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-07",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "IN & FINN",
+					"transactionAmount": {
+						"amount": "-138.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-06",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "SE0108",
+					"transactionAmount": {
+						"amount": "-127.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-299.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "SE0108",
+					"transactionAmount": {
+						"amount": "-127.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-07",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-299.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-07",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-661.75",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-05",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-46.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-05",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4108",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4108",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-07",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-07",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "832797042728670",
+					"transactionAmount": {
+						"amount": "1500.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-05",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "KISTA GROSSEN",
+					"transactionAmount": {
+						"amount": "-541.40",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-04",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-04",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-04",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-02-03",
+					"remittanceInformationUnstructured": "K*LIFE155",
+					"transactionAmount": {
+						"amount": "-525.15",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-03",
+					"categorisation": {
+						"categoryId": 5,
+						"categoryTitle": "Health"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-02-02",
+					"remittanceInformationUnstructured": "832797042728670",
+					"transactionAmount": {
+						"amount": "1000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-02",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-02",
+					"transactionAmount": {
+						"amount": "1000.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-01",
+					"remittanceInformationUnstructured": "DIGITALOCEAN.COM",
+					"transactionAmount": {
+						"amount": "-60.11",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-01",
+					"categorisation": {
+						"categoryId": 11,
+						"categoryTitle": "Services"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-31",
+					"remittanceInformationUnstructured": "PIZZA HUT BROMMA",
+					"transactionAmount": {
+						"amount": "-190.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-29",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-28",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-69.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-28",
+					"remittanceInformationUnstructured": "SATS",
+					"transactionAmount": {
+						"amount": "-415.20",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-28",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-28",
+					"remittanceInformationUnstructured": "PRIS NYCKELKUND",
+					"transactionAmount": {
+						"amount": "-39.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-28",
+					"categorisation": {
+						"categoryId": 15,
+						"categoryTitle": "Transport"
+					},
+					"remittanceInformationStructured": "Debiteringsavgift"
+				},
+				{
+					"bookingDate": "2022-01-28",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-115.80",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-28",
+					"remittanceInformationUnstructured": "Akad a kassa",
+					"transactionAmount": {
+						"amount": "-130.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-28",
+					"categorisation": {
+						"categoryId": 14,
+						"categoryTitle": "Transfers"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-28",
+					"remittanceInformationUnstructured": "AKADEMIKERFÖ",
+					"transactionAmount": {
+						"amount": "-173.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-28",
+					"categorisation": {
+						"categoryId": 11,
+						"categoryTitle": "Services"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-25",
+					"remittanceInformationUnstructured": "Amazon Prime",
+					"transactionAmount": {
+						"amount": "-59.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-25",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-25",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-128.80",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-25",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "LÖN",
+					"transactionAmount": {
+						"amount": "45175.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-25",
+					"categorisation": {
+						"categoryId": 9,
+						"categoryTitle": "Salary"
+					},
+					"remittanceInformationStructured": "Lön"
+				},
+				{
+					"bookingDate": "2022-01-25",
+					"remittanceInformationUnstructured": "832797042728670",
+					"transactionAmount": {
+						"amount": "-44000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-25",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-209.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-24",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "BAKLAVA BROMMA",
+					"transactionAmount": {
+						"amount": "-68.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-24",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "BAUHAUS BROMMA",
+					"transactionAmount": {
+						"amount": "-39.95",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-24",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "CITY GROSS BROMM",
+					"transactionAmount": {
+						"amount": "-1526.53",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-24",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "UBR* PENDING.UBE",
+					"transactionAmount": {
+						"amount": "-93.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-24",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-477.29",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-23",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "1500.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-23",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-24",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-175.60",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-22",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-21",
+					"remittanceInformationUnstructured": "Tv payment",
+					"transactionAmount": {
+						"amount": "-3000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-21",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Bg-bet. via internet"
+				},
+				{
+					"bookingDate": "2022-01-21",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "4150.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-21",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-20",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-408.55",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-20",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "159 - ABRAHAMSBE",
+					"transactionAmount": {
+						"amount": "-39.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 14,
+						"categoryTitle": "Transfers"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "APOTEK HJARTAT S",
+					"transactionAmount": {
+						"amount": "-34.90",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 5,
+						"categoryTitle": "Health"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "Setareh Roshan A",
+					"transactionAmount": {
+						"amount": "-20.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 14,
+						"categoryTitle": "Transfers"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "172 - HOTORGET X",
+					"transactionAmount": {
+						"amount": "-39.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "Setareh Roshan A",
+					"transactionAmount": {
+						"amount": "-160.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 14,
+						"categoryTitle": "Transfers"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "PRESSBYRAAN40502",
+					"transactionAmount": {
+						"amount": "-39.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "KJELL & CO 21",
+					"transactionAmount": {
+						"amount": "-109.80",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-17",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "1101 Cervera Sve",
+					"transactionAmount": {
+						"amount": "-24.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-16",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-59.95",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-16",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "90 - T-CENTRALEN",
+					"transactionAmount": {
+						"amount": "-39.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-16",
+					"categorisation": {
+						"categoryId": 15,
+						"categoryTitle": "Transport"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "PRESSBYRAAN40502",
+					"transactionAmount": {
+						"amount": "-26.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-16",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-17",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-434.60",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-15",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-14",
+					"remittanceInformationUnstructured": "PIZZA HUT BROMMA",
+					"transactionAmount": {
+						"amount": "-190.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-14",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-13",
+					"remittanceInformationUnstructured": "K*COOP BROMM",
+					"transactionAmount": {
+						"amount": "-544.48",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-13",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-12",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "2500.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-12",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-12",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-70.95",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-12",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-10",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-159.59",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-10",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-10",
+					"remittanceInformationUnstructured": "ARYA RESTAURANG",
+					"transactionAmount": {
+						"amount": "-114.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-09",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-10",
+					"remittanceInformationUnstructured": "GOTGATSBACKEN",
+					"transactionAmount": {
+						"amount": "-116.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-09",
+					"categorisation": {
+						"categoryId": 16,
+						"categoryTitle": "Travel"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-10",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-78.90",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-08",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-07",
+					"remittanceInformationUnstructured": "K*CITY GROSS",
+					"transactionAmount": {
+						"amount": "-1191.33",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-07",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-07",
+					"remittanceInformationUnstructured": "APOTEKET DUVAN",
+					"transactionAmount": {
+						"amount": "-269.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-06",
+					"categorisation": {
+						"categoryId": 5,
+						"categoryTitle": "Health"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-07",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-45.95",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-06",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-05",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-164.55",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-05",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-05",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-26.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-05",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-05",
+					"remittanceInformationUnstructured": "BALDERS BROD",
+					"transactionAmount": {
+						"amount": "-45.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-05",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-05",
+					"remittanceInformationUnstructured": "AUDIKA AB",
+					"transactionAmount": {
+						"amount": "-100.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-05",
+					"categorisation": {
+						"categoryId": 5,
+						"categoryTitle": "Health"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-05",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "1000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-05",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-04",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-04",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-04",
+					"remittanceInformationUnstructured": "K*COOP BROMM",
+					"transactionAmount": {
+						"amount": "-188.18",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-04",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-04",
+					"remittanceInformationUnstructured": "K*ICA SUPERM",
+					"transactionAmount": {
+						"amount": "-60.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-04",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-04",
+					"remittanceInformationUnstructured": "K*APOTEKET D",
+					"transactionAmount": {
+						"amount": "-235.83",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-04",
+					"categorisation": {
+						"categoryId": 5,
+						"categoryTitle": "Health"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "2000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-03",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-30.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-03",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4308",
+					"transactionAmount": {
+						"amount": "-72.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-02",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "TABY KOPCENTRUM",
+					"transactionAmount": {
+						"amount": "-20.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-02",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "DIGITALOCEAN.COM",
+					"transactionAmount": {
+						"amount": "-57.70",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-02",
+					"categorisation": {
+						"categoryId": 11,
+						"categoryTitle": "Services"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "SL APP",
+					"transactionAmount": {
+						"amount": "-38.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-01",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "SUBWAY",
+					"transactionAmount": {
+						"amount": "-216.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-01",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "-100.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-30",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "15000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-30",
+					"remittanceInformationUnstructured": "SVERIGES INGENJÖ",
+					"transactionAmount": {
+						"amount": "-480.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 17,
+						"categoryTitle": "Utilities"
+					},
+					"remittanceInformationStructured": "Bg-bet. via internet"
+				},
+				{
+					"bookingDate": "2021-12-30",
+					"remittanceInformationUnstructured": "832797042728670",
+					"transactionAmount": {
+						"amount": "35000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-30",
+					"remittanceInformationUnstructured": "ED  0314 BOOKING",
+					"transactionAmount": {
+						"amount": "-50000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 16,
+						"categoryTitle": "Travel"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-03",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "500.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-29",
+					"remittanceInformationUnstructured": "AKADEMIKERFÖ",
+					"transactionAmount": {
+						"amount": "-144.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-29",
+					"categorisation": {
+						"categoryId": 11,
+						"categoryTitle": "Services"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "SYSTEMBOLAGET BR",
+					"transactionAmount": {
+						"amount": "-146.50",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "MATVÄRLDEN VÄLLI",
+					"transactionAmount": {
+						"amount": "-1107.04",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-182.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-52.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "SL APP",
+					"transactionAmount": {
+						"amount": "-76.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "SATS",
+					"transactionAmount": {
+						"amount": "-415.20",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "Akad a kassa",
+					"transactionAmount": {
+						"amount": "-130.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 14,
+						"categoryTitle": "Transfers"
+					},
+					"remittanceInformationStructured": "Autogiro"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "PRIS NYCKELKUND",
+					"transactionAmount": {
+						"amount": "-39.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 15,
+						"categoryTitle": "Transport"
+					},
+					"remittanceInformationStructured": "Debiteringsavgift"
+				},
+				{
+					"bookingDate": "2021-12-28",
+					"remittanceInformationUnstructured": "COOP BROMMAPLAN",
+					"transactionAmount": {
+						"amount": "-102.45",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-28",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "KEBABKHAN KURDIS",
+					"transactionAmount": {
+						"amount": "-780.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-27",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "832797042728670",
+					"transactionAmount": {
+						"amount": "-35000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-27",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "SL APP",
+					"transactionAmount": {
+						"amount": "-38.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-27",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "KEBABKHAN KURDIS",
+					"transactionAmount": {
+						"amount": "-270.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-27",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-182.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-26",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "SL APP",
+					"transactionAmount": {
+						"amount": "-38.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-26",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-26.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-26",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "UBER RIDES",
+					"transactionAmount": {
+						"amount": "-219.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-25",
+					"categorisation": {
+						"categoryId": 15,
+						"categoryTitle": "Transport"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "SL APP",
+					"transactionAmount": {
+						"amount": "-38.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-25",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "92736323327",
+					"transactionAmount": {
+						"amount": "-10.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-25",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "From Ahoora Swed",
+					"transactionAmount": {
+						"amount": "-100.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-25",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "HEMKÖP CITY STOC",
+					"transactionAmount": {
+						"amount": "-129.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-25",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "Tv payment",
+					"transactionAmount": {
+						"amount": "-3000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-24",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Bg-bet. via internet"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-52.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-24",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "APPLE.COM/BILL",
+					"transactionAmount": {
+						"amount": "-209.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-24",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "-100.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-24",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-22",
+					"remittanceInformationUnstructured": "LÖN",
+					"transactionAmount": {
+						"amount": "43135.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-23",
+					"categorisation": {
+						"categoryId": 9,
+						"categoryTitle": "Salary"
+					},
+					"remittanceInformationStructured": "Lön"
+				},
+				{
+					"bookingDate": "2021-12-22",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-232.40",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-22",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-22",
+					"remittanceInformationUnstructured": "SYSTEMBOLAGET BR",
+					"transactionAmount": {
+						"amount": "-50.70",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-22",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-22",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-26.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-22",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-21",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "-20.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-21",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-21",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4150",
+					"transactionAmount": {
+						"amount": "-26.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-21",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-47.90",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-20",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4141",
+					"transactionAmount": {
+						"amount": "-59.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-19",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "SYSTEMBOLAGET BR",
+					"transactionAmount": {
+						"amount": "-202.50",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "UBER   *TRIP",
+					"transactionAmount": {
+						"amount": "-40.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 15,
+						"categoryTitle": "Transport"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "UBR* PENDING.UBE",
+					"transactionAmount": {
+						"amount": "-176.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "MATVÄRLDEN VÄLLI",
+					"transactionAmount": {
+						"amount": "-828.69",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "ICA SUPERMARKET",
+					"transactionAmount": {
+						"amount": "-78.88",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "PIZZA HUT BROMMA",
+					"transactionAmount": {
+						"amount": "-190.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-167.40",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-20",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "-100.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-18",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-17",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-125.40",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-17",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-17",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "-55.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-17",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-17",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-153.80",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-17",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-17",
+					"remittanceInformationUnstructured": "832796949049230",
+					"transactionAmount": {
+						"amount": "1000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-17",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-15",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-102.16",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-15",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-14",
+					"remittanceInformationUnstructured": "PRESSBYRAAN40502",
+					"transactionAmount": {
+						"amount": "-26.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-14",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "FILMSTADEN AB",
+					"transactionAmount": {
+						"amount": "-159.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 3,
+						"categoryTitle": "Entertainment"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "KJELL & CO 86",
+					"transactionAmount": {
+						"amount": "-69.90",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 12,
+						"categoryTitle": "Shopping"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "SUBWAY LANDSVAGE",
+					"transactionAmount": {
+						"amount": "-215.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-130.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "KISTA GROSSEN",
+					"transactionAmount": {
+						"amount": "-1113.18",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4408",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "PRESSBYRAAN 4208",
+					"transactionAmount": {
+						"amount": "-12.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-12",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "ICA ABRAHAMSBERG",
+					"transactionAmount": {
+						"amount": "-270.10",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-11",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "ALBATOUL KIOSK",
+					"transactionAmount": {
+						"amount": "-30.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-11",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-13",
+					"remittanceInformationUnstructured": "Mae Thai G¦tgata",
+					"transactionAmount": {
+						"amount": "-99.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-11",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-08",
+					"remittanceInformationUnstructured": "ALBATOUL KIOSK",
+					"transactionAmount": {
+						"amount": "-25.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-08",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				},
+				{
+					"bookingDate": "2021-12-08",
+					"remittanceInformationUnstructured": "ALBATOUL KIOSK",
+					"transactionAmount": {
+						"amount": "-29.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-08",
+					"categorisation": {
+						"categoryId": 4,
+						"categoryTitle": "Food and Drink"
+					},
+					"remittanceInformationStructured": "Kortköp/uttag"
+				}
+			],
+			"pending": []
+		},
+		"status": {
+			"categorisation": "SUCCESS"
+		}
+	},
+	{
+		"transactions": {
+			"booked": [],
+			"pending": []
+		},
+		"status": {
+			"categorisation": "SUCCESS"
+		}
+	},
+	{
+		"transactions": {
+			"booked": [
+				{
+					"bookingDate": "2022-02-08",
+					"transactionAmount": {
+						"amount": "-500.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-07",
+					"remittanceInformationUnstructured": "832796944387627",
+					"transactionAmount": {
+						"amount": "-1500.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-05",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-02",
+					"remittanceInformationUnstructured": "832796944387627",
+					"transactionAmount": {
+						"amount": "-1000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-02-02",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-02-02",
+					"transactionAmount": {
+						"amount": "-1000.00",
+						"currency": "SEK"
+					},
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2022-01-25",
+					"remittanceInformationUnstructured": "832796944387627",
+					"transactionAmount": {
+						"amount": "44000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2022-01-25",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-30",
+					"remittanceInformationUnstructured": "832796944387627",
+					"transactionAmount": {
+						"amount": "-35000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-30",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				},
+				{
+					"bookingDate": "2021-12-27",
+					"remittanceInformationUnstructured": "832796944387627",
+					"transactionAmount": {
+						"amount": "35000.00",
+						"currency": "SEK"
+					},
+					"valueDate": "2021-12-27",
+					"categorisation": {
+						"categoryId": 99,
+						"categoryTitle": "Other"
+					},
+					"remittanceInformationStructured": "Överföring via internet"
+				}
+			],
+			"pending": []
+		},
+		"status": {
+			"categorisation": "SUCCESS"
+		}
+	}
+]
