@@ -10561,6 +10561,11 @@
   "resolved" "https://registry.npmjs.org/uuid/-/uuid-3.1.0.tgz"
   "version" "3.1.0"
 
+"v-lazy-image@^2.1.1":
+  "integrity" "sha512-QC6Jcok99CRhhsO7svfI3hcBaT945dSuaHk3jr7WHm+QJMzbB/f32xKkdF45qL5ezd5KeoqHKh4gD92mQtjfXQ=="
+  "resolved" "https://registry.npmjs.org/v-lazy-image/-/v-lazy-image-2.1.1.tgz"
+  "version" "2.1.1"
+
 "v-mask@^2.3.0":
   "integrity" "sha512-ap7pTtCTvj25CqX4VYXqudCBd0+XvYyhiiLbzWQQR7AMQosJ2+DPu0a94P9stk0EGmGcmYxJaPkFkfjD8hquWQ=="
   "resolved" "https://registry.npmjs.org/v-mask/-/v-mask-2.3.0.tgz"

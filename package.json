@@ -21,6 +21,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
     "pretty-checkbox-vue": "^1.1.9",
+    "v-lazy-image": "^2.1.1",
     "v-mask": "^2.3.0",
     "vue": "2.6.14",
     "vue-apexcharts": "^1.6.2",
